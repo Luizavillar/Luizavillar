@@ -11,7 +11,8 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A404F8&width=435&lines=%E2%AD%91+%E2%AD%91+%E2%9C%A6+Welcome+to+my+profile!+%E2%9C%A6+%E2%AD%91+%E2%AD%91;%E2%AD%91+%E2%AD%91+%E2%9C%A6+Bem-vindos+ao+meu+perfil!+%E2%9C%A6+%E2%AD%91+%E2%AD%91" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="left">⭑ Connect with me! ⭑</h3>
+<h3 align="left">⭑ Connect with me! ⭑</h3> 
+  <br>
 <div> 
   <a href="https://instagram.com/digital_developer37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Luiza Villar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -36,10 +37,15 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
- align="center" 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizavillar&show_icons=true&theme=midnight-purple)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizavillar&show_icons=true&theme=midnight-purple&layout=compact)
+<div style="text-align: center;" align="center">
+ <h3 align="center">⭑ GitHub Stats ⭑</h3>
+   <br>
+<img src=(https://github-readme-stats.vercel.app/api?username=luizavillar&show_icons=true&theme=midnight-purple)>
 
+  <a href="https://github.com/luizavillar/github-readme-stats">
+ <img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=luizavillar&show_icons=true&theme=midnight-purple&layout=compact)>
+   </a>
+</div>
 
 #
 
