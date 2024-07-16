@@ -11,6 +11,11 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A404F8&width=435&lines=%E2%AD%91+%E2%AD%91+%E2%9C%A6+Welcome+to+my+profile!+%E2%9C%A6+%E2%AD%91+%E2%AD%91;%E2%AD%91+%E2%AD%91+%E2%9C%A6+Bem-vindos+ao+meu+perfil!+%E2%9C%A6+%E2%AD%91+%E2%AD%91" alt="Typing SVG" /></a>
 </div>
 
+<h3 align="left">⭑ Connect with me! ⭑</h3>
+<div> 
+  <a href="https://instagram.com/digital_developer37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Luiza Villar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <h3 align="left">⭑ My Stack ⭑</h3>
 <div style="display: inline_block"><br>
@@ -20,12 +25,6 @@
   <img align="center" alt="Luiza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luiza-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">      
-</div>
-  
-<h3 align="left">⭑ Connect with me! ⭑</h3>
-<div> 
-  <a href="https://instagram.com/digital_developer37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Luiza Villar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ![gif (1)](https://github.com/user-attachments/assets/d2e00a34-5ac6-430b-8292-23f9a40fa5ed)
