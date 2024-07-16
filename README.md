@@ -29,9 +29,9 @@
   <img align="center" alt="Luiza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luiza-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">   
 </div>
-<br>
 
-<img align="right" alt="coding" src="https://github.com/user-attachments/assets/d2e00a34-5ac6-430b-8292-23f9a40fa5ed.gif">
+
+<img align="right" alt="coding"  width="400" src="https://github.com/user-attachments/assets/320f02cd-737a-4348-b1d2-c022987cea9c.gif">
 
  #
 
