@@ -6,8 +6,9 @@
 - 🌸 Pronouns: she/her
 
 #
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Per%C3%BA&weight=500&size=21&pause=1000&color=F722EB&width=435&lines=%E2%80%A2++Welcome+to+my+profile!+%E2%80%A2" alt="Typing SVG" /></a>
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Playwrite+Perú&weight=500&size=21&pause=1000&color=F722EB&width=435&lines=%E2%80%A2++Welcome+to+my+profile!+%E2%80%A2" alt="Typing SVG" /></a>
+</div>
 
 #
 
