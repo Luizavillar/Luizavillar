@@ -16,15 +16,20 @@
   <img align="center" alt="Luiza-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">        
 </div>
   
-  ##
+  #
  
 <div> 
   <a href="https://instagram.com/digital_developer37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Luiza Villar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- ##
- 
+ #
+
+ <p align="center">Estudante de Ciência da Computação na Faculdade de tecnologia em São Paulo. Atualmente trabalho suporte ao usuário e desenvolvimento de software.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
+#
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizavillar&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizavillar&show_icons=true&theme=dracula&layout=compact)
 
