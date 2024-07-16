@@ -12,7 +12,6 @@
 </div>
 
 <h3 align="left">⭑ Connect with me! ⭑</h3> 
-  <br>
 <div> 
   <a href="https://instagram.com/digital_developer37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Luiza Villar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -25,9 +24,9 @@
   <img align="center" alt="Luiza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luiza-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">      
+  <img align="center" alt="Luiza-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">   
 </div>
-
+<br>
 ![gif (1)](https://github.com/user-attachments/assets/d2e00a34-5ac6-430b-8292-23f9a40fa5ed)
 
  #
@@ -40,12 +39,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div style="text-align: center;" align="center">
  <h3 align="center">⭑ GitHub Stats ⭑</h3>
    <br>
-<img src=(https://github-readme-stats.vercel.app/api?username=luizavillar&show_icons=true&theme=midnight-purple)>
-
-  <a href="https://github.com/luizavillar/github-readme-stats">
- <img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=luizavillar&show_icons=true&theme=midnight-purple&layout=compact)>
-   </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizavillar&theme=dark&show_icons=true&theme=midnight-purple)
 
 #
 
