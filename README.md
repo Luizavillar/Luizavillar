@@ -13,6 +13,8 @@
 
 #
 
+<img align="right" alt="" height="190px" src="./Imagens/gif.GiIF Image">
+
 <h3 align="left">⭑ My Stack ⭑</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,8 +26,6 @@
   <img align="center" alt="Luiza-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Luiza-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">        
 </div>
-  
-  #
   
 <h3 align="left">⭑ Connect with me! ⭑</h3>
 <div> 
