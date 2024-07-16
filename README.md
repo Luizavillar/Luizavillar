@@ -27,6 +27,7 @@
   <img align="center" alt="Luiza-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">   
 </div>
 <br>
+
 ![gif (1)](https://github.com/user-attachments/assets/d2e00a34-5ac6-430b-8292-23f9a40fa5ed)
 
  #
@@ -39,6 +40,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div style="text-align: center;" align="center">
  <h3 align="center">⭑ GitHub Stats ⭑</h3>
    <br>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizavillar&theme=dark&show_icons=true&theme=midnight-purple)
 
 #
