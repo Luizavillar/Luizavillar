@@ -1,4 +1,4 @@
-## Olá! Sou a Luiza Villar 🖤
+## Olá! Sou a Luiza Villar 
 
 - 🖥️ Trabalho com suporte ao usuário e desenvolvimento de software
 - 📚 Estudando JavaScript, CSS, HTML e React
