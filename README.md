@@ -40,7 +40,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizavillar&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizavillar&show_icons=true&theme=dracula&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizavillar&show_icons=true&theme=dmidnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizavillar&show_icons=true&theme=midnight-purple&layout=compact)
 
 
