@@ -31,7 +31,7 @@
 </div>
 
 
-<img align="right" alt="coding"  width="400" src="https://github.com/user-attachments/assets/320f02cd-737a-4348-b1d2-c022987cea9c.gif">
+<img align="right" alt="coding" src="https://github.com/user-attachments/assets/320f02cd-737a-4348-b1d2-c022987cea9c.gif">
 
  #
 
