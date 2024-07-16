@@ -14,7 +14,8 @@
 #
 
 
-![gif](https://github.com/user-attachments/assets/2f9ef01a-8085-4683-bf63-b8652ca34588)
+![gif (1)](https://github.com/user-attachments/assets/d2e00a34-5ac6-430b-8292-23f9a40fa5ed)
+
 
 <h3 align="left">⭑ My Stack ⭑</h3>
 <div style="display: inline_block"><br>
