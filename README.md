@@ -35,9 +35,11 @@
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 #
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizavillar&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizavillar&show_icons=true&theme=midnight-purple&layout=compact)
+
+<div align="center">  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizavillar&show_icons=true&theme=midnight-purple)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizavillar&show_icons=true&theme=midnight-purple&layout=compact)
+</div>
 
 #
 
