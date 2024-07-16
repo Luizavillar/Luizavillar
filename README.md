@@ -13,7 +13,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="./Imagens/gif.GiIF Image">
+<img align="right" alt="" height="190px"![86b2a0f2beb060c0eee1e89fa5263c30](https://github.com/user-attachments/assets/b79a4c5f-e692-4780-9dce-37c24c2fce22)>
 
 <h3 align="left">⭑ My Stack ⭑</h3>
 <div style="display: inline_block"><br>
