@@ -5,6 +5,8 @@
 - 📩 How to reach me: luiza.lima.villar10@gmail.com
 - 🌸 Pronouns: she/her
 
+https://readme-typing-svg.demolab.com/demo/?font=Playwrite+Per%C3%BA&weight=500&size=21&color=F722EB&lines=%E2%80%A2++Welcome+to+my+profile!+%E2%80%A2
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
