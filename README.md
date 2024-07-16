@@ -13,8 +13,6 @@
 
 #
 
-<img align="right" src="![gif (1)](https://github.com/user-attachments/assets/d2e00a34-5ac6-430b-8292-23f9a40fa5ed)">
-
 <h3 align="left">⭑ My Stack ⭑</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +28,8 @@
   <a href="https://instagram.com/digital_developer37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Luiza Villar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![gif (1)](https://github.com/user-attachments/assets/d2e00a34-5ac6-430b-8292-23f9a40fa5ed)
 
  #
 
