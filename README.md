@@ -31,9 +31,7 @@
 </div>
 <br>
 
-
- <img alt="coding" src="https://github.com/user-attachments/assets/320f02cd-737a-4348-b1d2-c022987cea9c.gif">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="400px" align="right" alt="Computador LuizaVillar">
 
 
  <p align="center">Estudante de Ciência da Computação na Faculdade de tecnologia em São Paulo. Atualmente trabalho de suporte ao usuário e desenvolvimento de software.
