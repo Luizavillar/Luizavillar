@@ -7,6 +7,7 @@
   <ul align="left">
     <summary><h1 style="display: inline-block">Olá! Sou a Luiza Villar</h1></summary>
 </div>
+   
 - Trabalho com suporte ao usuário e desenvolvimento de software;
 - Estudando C++, Python, JavaScript, CSS, HTML e React;
 - How to reach me: luiza.lima.villar10@gmail.com;
