@@ -31,10 +31,10 @@
 </div>
 <br>
 
-<div align="right">
- <a><img alt="coding" src="https://github.com/user-attachments/assets/320f02cd-737a-4348-b1d2-c022987cea9c.gif"></a>
-</div>
- #
+
+ <img alt="coding" src="https://github.com/user-attachments/assets/320f02cd-737a-4348-b1d2-c022987cea9c.gif">
+
+
 
  <p align="center">Estudante de Ciência da Computação na Faculdade de tecnologia em São Paulo. Atualmente trabalho de suporte ao usuário e desenvolvimento de software.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
