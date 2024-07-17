@@ -15,7 +15,7 @@
   
 # 
 
- <br>
+<br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador LuizaVillar">
 
 <h3 align="left">⭑ Connect with me! ⭑</h3> 
@@ -36,6 +36,7 @@
 <br>
 
 #
+
 <br>
  <p align="center">Estudante de Ciência da Computação na Faculdade de tecnologia em São Paulo. Atualmente trabalho de suporte ao usuário e desenvolvimento de software.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
@@ -45,7 +46,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <div style="text-align: center;" align="center">
  <h3 align="center">⭑ GitHub Stats ⭑</h3>
-   <br>
+<br>
   
 ![Luizavillar GitHub stats](https://github-readme-stats.vercel.app/api?username=luizavillar&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizavillar&layout=compact&theme=midnight-purple)
