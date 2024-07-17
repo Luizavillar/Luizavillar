@@ -12,9 +12,9 @@
 - Estudando C++, Python, JavaScript, CSS, HTML e React;
 - How to reach me: luiza.lima.villar10@gmail.com;
 - Pronouns: she/her.
-<br>
+  
+# 
 
- # 
  <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador LuizaVillar">
 
