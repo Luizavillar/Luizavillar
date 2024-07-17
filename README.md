@@ -41,6 +41,7 @@
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 <br>
 
+#
 
 <div style="text-align: center;" align="center">
  <h3 align="center">⭑ GitHub Stats ⭑</h3>
