@@ -32,7 +32,7 @@
 <br>
 
 <div align="right">
- <a href="#"><img alt="coding" src="https://github.com/user-attachments/assets/320f02cd-737a-4348-b1d2-c022987cea9c.gif"></a>
+ <a><img alt="coding" src="https://github.com/user-attachments/assets/320f02cd-737a-4348-b1d2-c022987cea9c.gif"></a>
 </div>
  #
 
