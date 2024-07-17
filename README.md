@@ -16,7 +16,7 @@
 
  # 
  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="200px" align="right" alt="Computador LuizaVillar">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador LuizaVillar">
 
 <h3 align="left">⭑ Connect with me! ⭑</h3> 
 <div> 
