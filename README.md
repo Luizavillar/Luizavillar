@@ -40,7 +40,7 @@
  <p align="center">Estudante de Ciência da Computação na Faculdade de tecnologia em São Paulo. Atualmente trabalho de suporte ao usuário e desenvolvimento de software.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 <br>
-#
+
 
 <div style="text-align: center;" align="center">
  <h3 align="center">⭑ GitHub Stats ⭑</h3>
