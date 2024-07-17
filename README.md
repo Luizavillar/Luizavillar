@@ -30,8 +30,10 @@
   <img align="center" alt="Luiza-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">   
 </div>
 <br>
-<img align="right" alt="coding" src="https://github.com/user-attachments/assets/320f02cd-737a-4348-b1d2-c022987cea9c.gif">
 
+<div align="right">
+ <a><img alt="coding" src="https://github.com/user-attachments/assets/320f02cd-737a-4348-b1d2-c022987cea9c.gif"></a>
+</div>
  #
 
  <p align="center">Estudante de Ciência da Computação na Faculdade de tecnologia em São Paulo. Atualmente trabalho de suporte ao usuário e desenvolvimento de software.
