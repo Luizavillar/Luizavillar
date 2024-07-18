@@ -3,11 +3,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A404F8&width=435&lines=%E2%AD%91+%E2%AD%91+%E2%9C%A6+Welcome+to+my+profile!+%E2%9C%A6+%E2%AD%91+%E2%AD%91;%E2%AD%91+%E2%AD%91+%E2%9C%A6+Bem-vindos+ao+meu+perfil+%E2%9C%A6+%E2%AD%91+%E2%AD%91" alt="Typing SVG" /></a>
 </div>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Olá! Sou a Luiza Villar</h1></summary>
-</div>
-   
+  <h1>Olá! Sou a Luiza Villar</h1> 
 - Estudando C++, Python, JavaScript, CSS, HTML e React;
   
 # 
