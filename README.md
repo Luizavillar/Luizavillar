@@ -4,9 +4,9 @@
 </div>
 <br>
 
-- Olá! Sou a Luiza Villar  
+- Olá! Sou a Luiza Villar; 
 - Estudando C++, Python, JavaScript, CSS, HTML e React;
-- 
+- Sempre postando projetos;
 - A tecnologia é a arte de tornar possível o que parecia impossível.
   
 # 
