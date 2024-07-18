@@ -8,8 +8,6 @@
 - Estudando C++, Python, JavaScript, CSS, HTML e React;
 - Sempre postando projetos;
 - A tecnologia é a arte de tornar possível o que parecia impossível.
-  
-# 
 
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador LuizaVillar">
