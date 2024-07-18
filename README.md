@@ -40,6 +40,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
+<br>
 <div style="text-align: center;" align="center">
  <h3 align="center">⭑ GitHub Stats ⭑</h3>
 <br>
