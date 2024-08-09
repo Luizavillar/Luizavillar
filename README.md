@@ -5,7 +5,7 @@
 <br>
 
 - Olá! Sou a Luiza Villar; 
-- Estudando C++, Python, JavaScript, CSS, HTML e React;
+- Estudando C++, Python, JavaScript, HTML, CSS e React;
 - Sempre postando projetos;
 - A tecnologia é a arte de tornar possível o que parecia impossível.
 
