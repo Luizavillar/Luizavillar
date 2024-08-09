@@ -10,6 +10,7 @@
 - A tecnologia é a arte de tornar possível o que parecia impossível.
 
 <br>
+<br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador LuizaVillar">
 
 <h3 align="left">⭑ Connect with me! ⭑</h3> 
